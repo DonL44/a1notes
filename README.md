@@ -51,11 +51,11 @@ Check out the deployed app here: [A1Notes](https://a1notes.herokuapp.com/)
 
 ### Screenshots
 
-![screenshot](public\assets\images\notetaker1.png) 
+![screenshot](https://github.com/DonL44/a1notes/blob/7fd5e4e0f761154ecd12da5de0ceb11b5060ec19/public/assets/images/notetaker1.png) 
 
 <br>
 
-![screenshot](public\assets\images\notetaker2.png)
+![screenshot](https://github.com/DonL44/a1notes/blob/7fd5e4e0f761154ecd12da5de0ceb11b5060ec19/public/assets/images/notetaker2.png)
 
 ### Contact
 
