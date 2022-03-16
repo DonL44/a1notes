@@ -56,4 +56,4 @@ Check out the deployed app here: [Note Taker](https://donl44.github.io/a1notes/)
 
 ### Contact
 
-[Kara Krzystan on GitHub](https://github.com/DonL44/a1notes)
+[Don L on GitHub](https://github.com/DonL44/a1notes)
