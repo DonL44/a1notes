@@ -47,7 +47,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 * [BootStrap](https://getbootstrap.com/)
 
 ### Website Link
-Check out the deployed app here: [Note Taker](https://donl44.github.io/a1notes/)
+Check out the deployed app here: [A1Notes](https://a1notes.herokuapp.com/)
 
 ### Screenshots
 
