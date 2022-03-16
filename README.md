@@ -51,8 +51,11 @@ Check out the deployed app here: [Note Taker](https://donl44.github.io/a1notes/)
 
 ### Screenshots
 
-![screenshot](https://github.com/DonL44/note-taker/assets/images/Screenshot_01.jpg)
-![screenshot](https://github.com/DonL44/note-taker/assets/images/Screenshot_02.jpg)
+![screenshot](public\assets\images\notetaker1.png) 
+
+<br>
+
+![screenshot](public\assets\images\notetaker2.png)
 
 ### Contact
 
